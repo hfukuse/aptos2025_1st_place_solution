@@ -2,7 +2,7 @@
 
 ## 📑 Conference Presentation Materials
 
-The images in the PDF are from Ophnet, which was used in the competition below.
+The images in the PDF are from OphNet, which was used in the competition below.
 The citation is provided below. The dataset is publicly available on Hugging Face.  
 
 Competition: https://tianchi.aliyun.com/competition/entrance/532335?lang=en-us  
